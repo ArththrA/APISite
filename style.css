@@ -1,0 +1,27 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+}
+
+#cover {
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000;
+    margin-bottom: 15px;
+}
+
+.controls button {
+    background: none;
+    border: none;
+    font-size: 32px;
+    margin: 10px;
+    color: white;
+}
